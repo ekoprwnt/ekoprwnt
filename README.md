@@ -1,3 +1,3 @@
-👋 Hi, I’m @ekoprwnt
-\n 👀 I’m interested in Artificial Intelligence, Internet of Things, and UX Designer
-\n 🌱 I’m currently learning about AI, DL, ML, and IoT
+- 👋 Hi, I’m @ekoprwnt
+- 👀 I’m interested in Artificial Intelligence, Internet of Things, and UX Designer
+- 🌱 I’m currently learning about AI, DL, ML, and IoT
