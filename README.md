@@ -1,3 +1,3 @@
-- Hi, I’m @ekoprwnt
-- I’m interested and currently learning about Artificial Intelligence, Internet of Things, and UX Designer
-- You can visit my LinkedIn at: https://www.linkedin.com/in/ekoprwnt/
+- Hi, I'm @ekoprwnt
+- I'm interested and currently focusing on Artificial Intelligence, Internet of Things, and UX Designer
+- You can visit my LinkedIn at: https: https://www.linkedin.com/in/ekoprwnt/
